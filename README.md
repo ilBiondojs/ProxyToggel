@@ -1,4 +1,4 @@
-Timo Coupek I2BC
+Timo Coupek I2BC - School Project
 ---
 ## Utilizzo
 ### Insallazione
@@ -137,4 +137,5 @@ if(-not (Test-Path "$HOME\desktop\proxy.lnk")){
     Message "Shortcut creata"
 }
 ```
+
 `Message` è un metodo che permette di stampare a terminale in modo formattato una specie di log.
